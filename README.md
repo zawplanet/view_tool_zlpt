@@ -14,7 +14,9 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ViewToolZlpt::Renderer.copyright "Zaw Lay Pyay Thar", "All right reserved"
+```
 
 ## Development
 
