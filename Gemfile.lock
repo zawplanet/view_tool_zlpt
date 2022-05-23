@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    view_tool_zlpt (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  rake (~> 13.0)
+  view_tool_zlpt!
+
+BUNDLED WITH
+   2.3.12
